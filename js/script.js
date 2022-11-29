@@ -26,17 +26,15 @@ function update() {
   const c = parseFloat(document.getElementById("lenghts3").value)
 
   // output
-  if ((a+b<=c)|| (b+c<=a) || (c+a<=b) || (a<=0) || (b<=0) || (c<=0)) 
-  {
+  if (a + b <= c || b + c <= a || c + a <= b || a <= 0 || b <= 0 || c <= 0) {
     console.log(1)
     document.getElementById("answer").innerHTML = "It is not a triangle"
-  } 
-  else 
-  {
-    if ((a==b)&&(b==c)&&(c==a)) {
+  } else {
+    if (a == b && b == c && c == a) {
       console.log(2)
-      document.getElementById("answer").innerHTML = "It is a equilateral triangle"
-    } else if ((a==b)||(b==c)||(c==a)) {
+      document.getElementById("answer").innerHTML =
+        "It is a equilateral triangle"
+    } else if (a == b || b == c || c == a) {
       console.log(3)
       document.getElementById("answer").innerHTML = "It is a isosceles triangle"
     } else {

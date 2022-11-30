@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Youngwook-Go/ICS2O-Unit5-05-JS)](https://repl.it/github/Youngwook-Go/ICS2O-Unit5-05-JS)
 
-This site can be found at: [https://Youngwook-Go.github.io/ICS2O-Unit5-045JS/](https://Youngwook-Go.github.io/ICS2O-Unit5-05-JS/)
+This site can be found at: [https://Youngwook-Go.github.io/ICS2O-Unit5-05-JS/](https://Youngwook-Go.github.io/ICS2O-Unit5-05-JS/)
